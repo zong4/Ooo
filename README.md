@@ -2,6 +2,8 @@
 
 A Unity recreation of Öoo's revolutionary gameplay where bombs become your movement, puzzle-solving, and exploration toolkit.
 
+![](./Sources/v1.png)
+
 # Core Features
 
 1. Bomb Interaction System
